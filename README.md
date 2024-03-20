@@ -147,3 +147,97 @@
 29/01/24 parte 1 <https://youtu.be/oBYA8DvDwzs>
 
 29/01/24 parte 2 <https://youtu.be/bRb2r4P3EPI>
+
+## SYMFONY
+
+30/01/24 parte 1 <https://youtu.be/gUYfYHL6-aI>
+
+30/01/24 parte 2 <https://youtu.be/6gchSjCtJoA>
+
+31/01/24 parte 1 <https://youtu.be/DP4o9YJiBR4>
+
+31/01/24 parte 2 <https://youtu.be/uAwqqg2g6d4>
+
+01/02/24 parte 1 <https://youtu.be/da7vUfa_uF8>
+
+01/02/24 parte 2 <https://youtu.be/VPosj64lHz0>
+
+02/02/24 parte 1 <https://youtu.be/i7Fx82baxGs>
+
+02/02/24 parte 2 <https://youtu.be/Q_kFp7daRsw>
+
+05/02/24 parte 1 <https://youtu.be/e77yVd_hCRg>
+
+05/02/24 parte 2 <https://youtu.be/S2onrD5lVdc>
+
+06/02/24 parte 1 <https://youtu.be/igpCmQDz9o4>
+
+06/02/24 parte 2 <https://youtu.be/kGP4n1CyXHw>
+
+07/02/24 parte 1 <https://youtu.be/j_jczK6QrAg>
+
+07/02/24 parte 2 <https://youtu.be/LkymucRnCKA>
+
+07/02/24 parte 3 <https://youtu.be/An3f06KORZE>
+
+08/02/24 <https://youtu.be/Zz_PImUrc8M>
+
+09/02/24 parte 1 <https://youtu.be/S6KeWKqUp6k>
+
+09/02/24 parte 2 <https://youtu.be/XgJpQ37CsZA>
+
+12/02/24 parte 1 <https://youtu.be/tiIDKog-NAY>
+
+12/02/24 parte 2 <https://youtu.be/PKaMvYx8sh8>
+
+## SYMFONY + DOCKER
+
+12/02/24 <https://youtu.be/1Ga-jnfe7uY>
+
+13/02/24 parte 1 <https://youtu.be/_s56x2wokq0>
+
+13/02/24 parte 2 <https://youtu.be/HsB6ePzpY84>
+
+13/02/24 parte 3 <https://youtu.be/PSKCKVyZF74>
+
+14/02/24 parte 1 <https://youtu.be/rTlUECKseJc>
+
+14/02/24 parte 2 <https://youtu.be/BCENau-TujQ>
+
+15/02/24 <https://youtu.be/eOgWGSNCLOQ>
+
+## SYMFONY + WSL2
+
+15/02/24 <https://youtu.be/mHi6eWV1t1c>
+
+16/02/24 parte 1 <https://youtu.be/J78EFDW-kQs>
+
+16/02/24 parte 2 <https://youtu.be/ZpdaalTWUkM>
+
+19/02/24 parte 1 <https://youtu.be/EZmy4cv0ow0>
+
+19/02/24 parte 2 <https://youtu.be/H482ZowYsv4>
+
+## SYMFONY
+
+20/02/24 parte 1 <https://youtu.be/cmo2iHi-j3o>
+
+20/02/24 parte 2 <https://youtu.be/mBKs9mXIVAo>
+
+21/02/24 parte 1 <https://youtu.be/mbM8PS6mwvs>
+
+21/02/24 parte 2 <https://youtu.be/eeVeXVg3UjE>
+
+21/02/24 parte 3 <https://youtu.be/hjoBiXFGzWE>
+
+## JAVASCRIPT
+
+22/02/24 parte 1 <https://youtu.be/UIUUt0-Kg2U>
+
+22/02/24 parte 2 <https://youtu.be/ILQP0IKnT1k>
+
+23/02/24 parte 1 <https://youtu.be/tuxaRFGNBbY>
+
+23/02/24 parte 2 <https://youtu.be/5jROTtjKt38>
+
+26/02/24 <https://youtu.be/yoCVsWlk6_4>
