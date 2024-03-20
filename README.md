@@ -1,5 +1,7 @@
 # SOLTEL YOUTUBE
 
+# LISTA DE REPRODUCCION <https://www.youtube.com/playlist?list=PLH9olcWVL3TdLF4RNCcwUcNDGtVpHXIT3>
+
 ## PRESENTACION
 
 04/12/23 parte 1 <https://youtu.be/gpzB5wKZ9B8>
@@ -241,3 +243,17 @@
 23/02/24 parte 2 <https://youtu.be/5jROTtjKt38>
 
 26/02/24 <https://youtu.be/yoCVsWlk6_4>
+
+(CONTINUARA...)
+
+## TYPESCRIPT
+
+## ANGULAR
+
+## JAVA
+
+## JSP
+
+## SPRING BOOT
+
+
