@@ -1,6 +1,8 @@
 # SOLTEL YOUTUBE
 
-# LISTA DE REPRODUCCION <https://www.youtube.com/playlist?list=PLH9olcWVL3TdLF4RNCcwUcNDGtVpHXIT3>
+# LISTA DE REPRODUCCION
+
+<https://www.youtube.com/playlist?list=PLH9olcWVL3TdLF4RNCcwUcNDGtVpHXIT3>
 
 ## PRESENTACION
 
