@@ -1,14 +1,20 @@
 # SOLTEL YOUTUBE
+---
+---
 
 # LISTA DE REPRODUCCION
 
 <https://www.youtube.com/playlist?list=PLH9olcWVL3TdLF4RNCcwUcNDGtVpHXIT3>
+---
+---
 
 ## PRESENTACION
 
 04/12/23 parte 1 <https://youtu.be/gpzB5wKZ9B8>
 
 04/12/23 parte 2 <https://youtu.be/Rj5KOFL0oPg>
+---
+---
 
 ## HTML
 
@@ -386,7 +392,7 @@ expediente)
 - Comentar dentro del codigo lo mas importante
 
 - Si se consigue montar todo el proyecto dentro de un docker, que sea simplemente enviarlo, montarlo y que todo funcione,
-seria lo ideal)https://sistemaelex.com/sobre-nosotros/
+seria lo ideal
 ```
 
 
