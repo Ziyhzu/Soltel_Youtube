@@ -371,7 +371,8 @@ Reunión examen final <https://youtu.be/GbHI2IkEfLg>
 - Se debe hacer una pantalla, por cada entidad, que permita hacer busquedas por cada campo de elemento y que genere un
 resultado. Y en ese resultado, se pueda acceder a detalles para realizar por ejemplo ediciones y borrados
 
-- Debe haber al menos un combobox (ejemplo, en expedientes, que en tipo de expediente salga un desplegable con los tipos de expediente)
+- Debe haber al menos un combobox (ejemplo, en expedientes, que en tipo de expediente salga un desplegable con los tipos de
+expediente)
 
 - Se deben poner pop-up para realizar confirmaciones de edicion y borrados
 
@@ -384,7 +385,8 @@ resultado. Y en ese resultado, se pueda acceder a detalles para realizar por eje
 
 - Comentar dentro del codigo lo mas importante
 
-- Si se consigue montar todo el proyecto dentro de un docker, que sea simplemente enviarlo, montarlo y que todo funcione, seria lo ideal)https://sistemaelex.com/sobre-nosotros/
+- Si se consigue montar todo el proyecto dentro de un docker, que sea simplemente enviarlo, montarlo y que todo funcione,
+seria lo ideal)https://sistemaelex.com/sobre-nosotros/
 ```
 
 
