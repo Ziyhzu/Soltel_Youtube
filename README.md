@@ -356,68 +356,34 @@ Reunión examen final <https://youtu.be/GbHI2IkEfLg>
 - Frontend -> Angular
 - Base de datos -> Mysql
 
-Pantalla de Login para acceso con usuario y contraseña
-Para la seguridad, usar JWT (Json Web Tokens). Cada vez que se intente hacer una gestión se revisa el token.
-Al loguearse se genera un token, el cual se pasa al Frontend para que lo gestione.
-Añadir boton de deslogueo.
+- Pantalla de Login para acceso con usuario y contraseña
+- Para la seguridad, usar JWT (Json Web Tokens). Cada vez que se intente hacer una gestión se revisa el token.
+- Al loguearse se genera un token, el cual se pasa al Frontend para que lo gestione.
+- Añadir boton de deslogueo.
 
-Al acceder debe aparecer un menu que debe gestionar 4 entidades relacionadas, ademas de su correspondiente CRUD
+- Al acceder debe aparecer un menu que debe gestionar 4 entidades relacionadas, ademas de su correspondiente CRUD
 
-Las entidades de la base de datos deben ser: Expediente, actuaciones, documentos y tipos de expediente
-Deben tener campos de todo tipo (importante fichero tipo blob (Binary Large Object))
-La entidad documentos debe tener asociado un fichero blob que debe gestionarse.
-En la base de datos usar ID autonumericos y borrados logicos (no usar borrados fisicos)
+- Las entidades de la base de datos deben ser: Expediente, actuaciones, documentos y tipos de expediente
+- Deben tener campos de todo tipo (importante fichero tipo blob (Binary Large Object))
+- La entidad documentos debe tener asociado un fichero blob que debe gestionarse.
+- En la base de datos usar ID autonumericos y borrados logicos (no usar borrados fisicos)
 
-Se debe hacer una pantalla, por cada entidad, que permita hacer busquedas por cada campo de elemento y que genere un resultado. Y en ese resultado, se pueda acceder a detalles para realizar por ejemplo ediciones y borrados
+- Se debe hacer una pantalla, por cada entidad, que permita hacer busquedas por cada campo de elemento y que genere un resultado. Y en ese resultado, se pueda acceder a detalles para realizar por ejemplo ediciones y borrados
 
-Debe haber al menos un combobox (ejemplo, en expedientes, que en tipo de expediente salga un desplegable con los tipos de expediente)
+- Debe haber al menos un combobox (ejemplo, en expedientes, que en tipo de expediente salga un desplegable con los tipos de expediente)
 
-Se deben poner pop-up para realizar confirmaciones de edicion y borrados
+- Se deben poner pop-up para realizar confirmaciones de edicion y borrados
 
-Al realizar peticiones debe haber sincronas y asincronas (Al hacer pediciones de Angular al backend) 
-En gestiones de carga larga se debe poner un spiner
+- Al realizar peticiones debe haber sincronas y asincronas (Al hacer pediciones de Angular al backend) 
+- En gestiones de carga larga se debe poner un spiner
 
-API de swagger
+- Usar API swagger
 
-Para Angular se puede usar librerias, por ejemplo, Angular Material
+- Para Angular se puede usar librerias, por ejemplo, Angular Material
 
-Comentar dentro del codigo lo mas importante
+- Comentar dentro del codigo lo mas importante
 
-Si se consigue montar todo el proyecto dentro de un docker, que sea simplemente enviarlo, montarlo y que todo funcione, seria lo ideal)https://sistemaelex.com/sobre-nosotros/
-Tematica del proyecto: Justicia
-
-Backend -> Java con Spring Boot, Spring Security, Hybernate para acceso a base de datos
-Frontend -> Angular
-Base de datos -> Mysql
-
-Pantalla de Login para acceso con usuario y contraseña
-Para la seguridad, usar JWT (Json Web Tokens). Cada vez que se intente hacer una gestión se revisa el token.
-Al loguearse se genera un token, el cual se pasa al Frontend para que lo gestione.
-Añadir boton de deslogueo.
-
-Al acceder debe aparecer un menu que debe gestionar 4 entidades relacionadas, ademas de su correspondiente CRUD
-
-Las entidades de la base de datos deben ser: Expediente, actuaciones, documentos y tipos de expediente
-Deben tener campos de todo tipo (importante fichero tipo blob (Binary Large Object))
-La entidad documentos debe tener asociado un fichero blob que debe gestionarse.
-En la base de datos usar ID autonumericos y borrados logicos (no usar borrados fisicos)
-
-Se debe hacer una pantalla, por cada entidad, que permita hacer busquedas por cada campo de elemento y que genere un resultado. Y en ese resultado, se pueda acceder a detalles para realizar por ejemplo ediciones y borrados
-
-Debe haber al menos un combobox (ejemplo, en expedientes, que en tipo de expediente salga un desplegable con los tipos de expediente)
-
-Se deben poner pop-up para realizar confirmaciones de edicion y borrados
-
-Al realizar peticiones debe haber sincronas y asincronas (Al hacer pediciones de Angular al backend) 
-En gestiones de carga larga se debe poner un spiner
-
-API de swagger
-
-Para Angular se puede usar librerias, por ejemplo, Angular Material
-
-Comentar dentro del codigo lo mas importante
-
-Si se consigue montar todo el proyecto dentro de un docker, que sea simplemente enviarlo, montarlo y que todo funcione, seria lo ideal
+- Si se consigue montar todo el proyecto dentro de un docker, que sea simplemente enviarlo, montarlo y que todo funcione, seria lo ideal)https://sistemaelex.com/sobre-nosotros/
 ```
 
 
