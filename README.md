@@ -368,7 +368,8 @@ Reunión examen final <https://youtu.be/GbHI2IkEfLg>
 - La entidad documentos debe tener asociado un fichero blob que debe gestionarse.
 - En la base de datos usar ID autonumericos y borrados logicos (no usar borrados fisicos)
 
-- Se debe hacer una pantalla, por cada entidad, que permita hacer busquedas por cada campo de elemento y que genere un resultado. Y en ese resultado, se pueda acceder a detalles para realizar por ejemplo ediciones y borrados
+- Se debe hacer una pantalla, por cada entidad, que permita hacer busquedas por cada campo de elemento y que genere un
+resultado. Y en ese resultado, se pueda acceder a detalles para realizar por ejemplo ediciones y borrados
 
 - Debe haber al menos un combobox (ejemplo, en expedientes, que en tipo de expediente salga un desplegable con los tipos de expediente)
 
