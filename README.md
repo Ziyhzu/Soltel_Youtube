@@ -5,6 +5,7 @@
 # LISTA DE REPRODUCCION
 
 <https://www.youtube.com/playlist?list=PLH9olcWVL3TdLF4RNCcwUcNDGtVpHXIT3>
+
 ---
 ---
 
@@ -13,6 +14,7 @@
 04/12/23 parte 1 <https://youtu.be/gpzB5wKZ9B8>
 
 04/12/23 parte 2 <https://youtu.be/Rj5KOFL0oPg>
+
 ---
 ---
 
@@ -25,6 +27,9 @@
 11/12/23 parte 1 <https://youtu.be/dAjkKh3mG4M>
 
 11/12/23 parte 2 <https://youtu.be/vKuRZK_mq9o>
+
+---
+---
 
 ## CSS
 
@@ -45,6 +50,9 @@
 15/12/23 parte 1 <https://youtu.be/90c4fv3FtJs>
 
 15/12/23 parte 2 <https://youtu.be/rQzs0ZmFie4>
+
+---
+---
 
 ## BOOTSTRAP
 
@@ -67,6 +75,9 @@
 22/12/23 parte 1 <https://youtu.be/Ze-x3w3T6Rc>
 
 22/12/23 parte 2 <https://youtu.be/pb8n3GbfBSQ>
+
+---
+---
 
 ## PHP
 
@@ -94,6 +105,9 @@
 
 08/01/24 parte 2 <https://youtu.be/lmhdlxT9ces>
 
+---
+---
+
 ## MYSQL
 
 09/01/24 parte 1 <https://youtu.be/pBRhS_DodBc>
@@ -107,6 +121,9 @@
 11/01/24 parte 1 <https://youtu.be/ZWaRSOVyJSM>
 
 11/01/24 parte 2 <https://youtu.be/4Lg33m6qK-Y>
+
+---
+---
 
 ## PHP + MYSQL
 
@@ -132,6 +149,9 @@
 
 18/01/24 parte 2 <https://youtu.be/P66Lilz7AYM>
 
+---
+---
+
 ## WORDPRESS
 
 23/01/24 <https://youtu.be/6GWLMtoYc5w>
@@ -141,6 +161,9 @@
 24/01/24 parte 2 <https://youtu.be/9MeQBZLG8No>
 
 24/01/24 parte 3 <https://youtu.be/NElgWwceYhg>
+
+---
+---
 
 ## DRUPAL
 
@@ -157,6 +180,9 @@
 29/01/24 parte 1 <https://youtu.be/oBYA8DvDwzs>
 
 29/01/24 parte 2 <https://youtu.be/bRb2r4P3EPI>
+
+---
+---
 
 ## SYMFONY
 
@@ -200,6 +226,9 @@
 
 12/02/24 parte 2 <https://youtu.be/PKaMvYx8sh8>
 
+---
+---
+
 ## SYMFONY + DOCKER
 
 12/02/24 <https://youtu.be/1Ga-jnfe7uY>
@@ -216,6 +245,9 @@
 
 15/02/24 <https://youtu.be/eOgWGSNCLOQ>
 
+---
+---
+
 ## SYMFONY + WSL2
 
 15/02/24 <https://youtu.be/mHi6eWV1t1c>
@@ -227,6 +259,9 @@
 19/02/24 parte 1 <https://youtu.be/EZmy4cv0ow0>
 
 19/02/24 parte 2 <https://youtu.be/H482ZowYsv4>
+
+---
+---
 
 ## SYMFONY
 
@@ -240,6 +275,9 @@
 
 21/02/24 parte 3 <https://youtu.be/hjoBiXFGzWE>
 
+---
+---
+
 ## JAVASCRIPT
 
 22/02/24 parte 1 <https://youtu.be/UIUUt0-Kg2U>
@@ -252,6 +290,9 @@
 
 26/02/24 <https://youtu.be/yoCVsWlk6_4>
 
+---
+---
+
 ## TYPESCRIPT
 
 26/02/24 parte 1 <https://youtu.be/F6U8Huf_S20>
@@ -261,6 +302,9 @@
 27/02/24 parte 1 <https://youtu.be/tMwjDT37ce0>
 
 27/02/24 parte 2 <https://youtu.be/--ph7btEJaM>
+
+---
+---
 
 ## ANGULAR
 
@@ -273,6 +317,9 @@
 01/03/24 parte 2 <https://youtu.be/9O4xegyU0WA>
 
 04/03/24 <https://youtu.be/cP2CbuvWkGQ>
+
+---
+---
 
 ## JAVA
 
@@ -296,6 +343,9 @@
 
 08/03/24 parte 2 <https://youtu.be/_09cqxXUZdY>
 
+---
+---
+
 ## JSP
 
 11/03/24 parte 1 <https://youtu.be/Co_vxGVmK14>
@@ -307,6 +357,9 @@
 12/03/24 parte 2 <https://youtu.be/d0O2q0piC7Y>
 
 13/03/24 <https://youtu.be/odZ_eAyUrck>
+
+---
+---
 
 ## STRING BOOT
 
@@ -327,6 +380,9 @@
 19/03/24 parte 2 <https://youtu.be/Lb5XL11Jm5c>
 
 20/03/24 <https://youtu.be/RY1vKTj-R5Q>
+
+---
+---
 
 ## ESPECIAL
 
@@ -351,6 +407,9 @@ Reunión examen final <https://youtu.be/GbHI2IkEfLg>
 08-01-24 Parte 1 Clase por la tarde <https://youtu.be/_FjriAmjZ4Y>
 
 08-01-24 Parte 2 Clase por la tarde <https://youtu.be/c4ivT0-31QU>
+
+---
+---
 
 ## RESUMEN DE LO HABLADO DURANTE LA REUNION
 
