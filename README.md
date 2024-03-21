@@ -246,16 +246,182 @@
 
 26/02/24 <https://youtu.be/yoCVsWlk6_4>
 
-(CONTINUARA...)
-
 ## TYPESCRIPT
+
+26/02/24 parte 1 <https://youtu.be/F6U8Huf_S20>
+
+26/02/24 parte 2 <https://youtu.be/DiSuze-R5lQ>
+
+27/02/24 parte 1 <https://youtu.be/tMwjDT37ce0>
+
+27/02/24 parte 2 <https://youtu.be/--ph7btEJaM>
 
 ## ANGULAR
 
+29/02/24 parte 1 <https://youtu.be/WnzmsbnXshA>
+
+29/02/24 parte 2 <https://youtu.be/JNqH0nUYumE>
+
+01/03/24 parte 1 <https://youtu.be/qbTSJSFKT_E>
+
+01/03/24 parte 2 <https://youtu.be/9O4xegyU0WA>
+
+04/03/24 <https://youtu.be/cP2CbuvWkGQ>
+
 ## JAVA
+
+04/03/24 parte 1 <https://youtu.be/FH3JAvJ_6MM>
+
+04/03/24 parte 2 <https://youtu.be/9FLElxg44tc>
+
+05/03/24 parte 1 <https://youtu.be/5Rix33Q4oQw>
+
+05/03/24 parte 2 <https://youtu.be/eEk5h2jjJEU>
+
+06/03/24 parte 1 <https://youtu.be/ElpV6aZvIIE>
+
+06/03/24 parte 2 <https://youtu.be/9mKbP_2p3ZY>
+
+07/03/24 parte 1 <https://youtu.be/6W9OClnuW64>
+
+07/03/24 parte 2 <https://youtu.be/BXfnj_VUwJg>
+
+08/03/24 parte 1 <https://youtu.be/1ZL_3dxJLTg>
+
+08/03/24 parte 2 <https://youtu.be/_09cqxXUZdY>
 
 ## JSP
 
-## SPRING BOOT
+11/03/24 parte 1 <https://youtu.be/Co_vxGVmK14>
+
+11/03/24 parte 2 <https://youtu.be/G3sYKvDXhn0>
+
+12/03/24 parte 1 <https://youtu.be/CP3vFryGIlU>
+
+12/03/24 parte 2 <https://youtu.be/d0O2q0piC7Y>
+
+13/03/24 <https://youtu.be/odZ_eAyUrck>
+
+## STRING BOOT
+
+14/03/24 parte 1 <https://youtu.be/62FK3_QsdZI>
+
+14/03/24 parte 2 <https://youtu.be/ObiqXJKYHWg>
+
+15/03/24 parte 1 <https://youtu.be/-l9vyKKDMYM>
+
+15/03/24 parte 2 <https://youtu.be/MkvtyMvHQ1E>
+
+18/03/24 parte 1 <https://youtu.be/B1s5UMaG8_s>
+
+18/03/24 parte 2 <https://youtu.be/P8sxTbzaRqg>
+
+19/03/24 parte 1 <https://youtu.be/0xO55w3CltU>
+
+19/03/24 parte 2 <https://youtu.be/Lb5XL11Jm5c>
+
+20/03/24 <https://youtu.be/RY1vKTj-R5Q>
+
+## ESPECIAL
+
+Parte 1 Instalación del entorno de desarrollo <https://youtu.be/bx_EzzLqZPc>
+
+Parte 2 Instalación del entorno de desarrollo <https://youtu.be/A81-MGIOhWg>
+
+Parte 3 Instalación del entorno de desarrollo <https://youtu.be/tuafA8f4lHo>
+
+Reunión examen final <https://youtu.be/GbHI2IkEfLg>
+
+11-01-24 Como firmar los partes de firma <https://youtu.be/KkMVurA21SA>
+
+06-03-24 Como firmar los partes de firma <https://youtu.be/9aAnXuQkKvc>
+
+13-03-24 Como firmar los partes de firma <https://youtu.be/J7r9TDx_abk>
+
+20-03-24 Como firmar los partes de firma <https://youtu.be/dFKtxmzFOUo>
+
+15-01-24 Practica Pre-examen de PHP <https://youtu.be/iQSx6QsQ9Es>
+
+08-01-24 Parte 1 Clase por la tarde <https://youtu.be/_FjriAmjZ4Y>
+
+08-01-24 Parte 2 Clase por la tarde <https://youtu.be/c4ivT0-31QU>
+
+## RESUMEN DE LO HABLADO DURANTE LA REUNION
+
+```console
+- https://sistemaelex.com/sobre-nosotros/
+
+- Tematica del proyecto: Justicia
+- Backend -> Java con Spring Boot, Spring Security, Hybernate para acceso a base de datos
+- Frontend -> Angular
+- Base de datos -> Mysql
+
+Pantalla de Login para acceso con usuario y contraseña
+Para la seguridad, usar JWT (Json Web Tokens). Cada vez que se intente hacer una gestión se revisa el token.
+Al loguearse se genera un token, el cual se pasa al Frontend para que lo gestione.
+Añadir boton de deslogueo.
+
+Al acceder debe aparecer un menu que debe gestionar 4 entidades relacionadas, ademas de su correspondiente CRUD
+
+Las entidades de la base de datos deben ser: Expediente, actuaciones, documentos y tipos de expediente
+Deben tener campos de todo tipo (importante fichero tipo blob (Binary Large Object))
+La entidad documentos debe tener asociado un fichero blob que debe gestionarse.
+En la base de datos usar ID autonumericos y borrados logicos (no usar borrados fisicos)
+
+Se debe hacer una pantalla, por cada entidad, que permita hacer busquedas por cada campo de elemento y que genere un resultado. Y en ese resultado, se pueda acceder a detalles para realizar por ejemplo ediciones y borrados
+
+Debe haber al menos un combobox (ejemplo, en expedientes, que en tipo de expediente salga un desplegable con los tipos de expediente)
+
+Se deben poner pop-up para realizar confirmaciones de edicion y borrados
+
+Al realizar peticiones debe haber sincronas y asincronas (Al hacer pediciones de Angular al backend) 
+En gestiones de carga larga se debe poner un spiner
+
+API de swagger
+
+Para Angular se puede usar librerias, por ejemplo, Angular Material
+
+Comentar dentro del codigo lo mas importante
+
+Si se consigue montar todo el proyecto dentro de un docker, que sea simplemente enviarlo, montarlo y que todo funcione, seria lo ideal)https://sistemaelex.com/sobre-nosotros/
+Tematica del proyecto: Justicia
+
+Backend -> Java con Spring Boot, Spring Security, Hybernate para acceso a base de datos
+Frontend -> Angular
+Base de datos -> Mysql
+
+Pantalla de Login para acceso con usuario y contraseña
+Para la seguridad, usar JWT (Json Web Tokens). Cada vez que se intente hacer una gestión se revisa el token.
+Al loguearse se genera un token, el cual se pasa al Frontend para que lo gestione.
+Añadir boton de deslogueo.
+
+Al acceder debe aparecer un menu que debe gestionar 4 entidades relacionadas, ademas de su correspondiente CRUD
+
+Las entidades de la base de datos deben ser: Expediente, actuaciones, documentos y tipos de expediente
+Deben tener campos de todo tipo (importante fichero tipo blob (Binary Large Object))
+La entidad documentos debe tener asociado un fichero blob que debe gestionarse.
+En la base de datos usar ID autonumericos y borrados logicos (no usar borrados fisicos)
+
+Se debe hacer una pantalla, por cada entidad, que permita hacer busquedas por cada campo de elemento y que genere un resultado. Y en ese resultado, se pueda acceder a detalles para realizar por ejemplo ediciones y borrados
+
+Debe haber al menos un combobox (ejemplo, en expedientes, que en tipo de expediente salga un desplegable con los tipos de expediente)
+
+Se deben poner pop-up para realizar confirmaciones de edicion y borrados
+
+Al realizar peticiones debe haber sincronas y asincronas (Al hacer pediciones de Angular al backend) 
+En gestiones de carga larga se debe poner un spiner
+
+API de swagger
+
+Para Angular se puede usar librerias, por ejemplo, Angular Material
+
+Comentar dentro del codigo lo mas importante
+
+Si se consigue montar todo el proyecto dentro de un docker, que sea simplemente enviarlo, montarlo y que todo funcione, seria lo ideal
+```
+
+
+
+
 
 
