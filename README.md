@@ -453,8 +453,8 @@ expediente)
 - Si se consigue montar todo el proyecto dentro de un docker, que sea simplemente enviarlo, montarlo y que todo funcione,
 seria lo ideal
 
-IMPORTANTE: La prioridad es que sea una aplicación simple de usar y que, por lo menos, arranque y lo basico funcione sin problemas.
-Todo lo arriba mencionado suma de cara a la evaluación, pero son cosas opcionales.
+IMPORTANTE: La prioridad es que sea una aplicación simple de usar y que, por lo menos, arranque y lo basico funcione sin
+problemas. Todo lo arriba mencionado suma de cara a la evaluación, pero son cosas opcionales.
 ```
 
 
