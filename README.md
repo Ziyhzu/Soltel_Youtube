@@ -379,7 +379,18 @@
 
 19/03/24 parte 2 <https://youtu.be/Lb5XL11Jm5c>
 
+---
+---
+
+## STRING BOOT + PRACTICA DE EXAMEN FINAL
+
 20/03/24 <https://youtu.be/RY1vKTj-R5Q>
+
+21/03/24 parte 1 <https://youtu.be/a01hzgcsgU4>
+
+21/03/24 parte 2 <https://youtu.be/2lhDiedLlaU>
+
+21/03/24 parte 3 <https://youtu.be/SzKdacVPeFM> --> Aquí empezamos a mezclar Spring Boot con Angular
 
 ---
 ---
