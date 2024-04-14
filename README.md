@@ -415,53 +415,59 @@
 ---
 ---
 
-## STRING BOOT + ANGULAR: PRACTICA DE EXAMEN FINAL
+(Los videos grabados por Jose Manuel no tienen permisos para poder ser descargados. Temporalmente, hasta que se solucione, dejo los links para verlos desde Microsoft. Se debe estar logueado con la cuenta de Microsoft de Soltel para poder verlos)
 
-01/04/24 PARTE 1 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/josemanuel_rodriguez_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240401_093047-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=rV2Lzw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
+## STRING BOOT + ANGULAR: CLASES CON JOSE MANUEL
 
-01/04/24 PARTE 2 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/josemanuel_rodriguez_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240401_093047-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n%201.mp4?csf=1&web=1&e=RU2fXV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
+01/04/24 PARTE 1 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/josemanuel_rodriguez_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240401_093047-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=rV2Lzw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D> --> Como generar un archivo PDF y guardarlo dentro del proyecto
 
-XXX/04/24 PARTE 1 <XXXXX>
+01/04/24 PARTE 2 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/josemanuel_rodriguez_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240401_093047-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n%201.mp4?csf=1&web=1&e=RU2fXV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D> 
 
-XXX/04/24 PARTE 1 <XXXXX>
+02/04/24 PARTE 1 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/josemanuel_rodriguez_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240402_092452-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=7GFHYs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D> --> Finalizar como generar un PDF y comenzamos repaso general de Spring Boot. Se explica la creación de DTOs
 
-XXX/04/24 PARTE 1 <XXXXX>
+02/04/24 PARTE 2 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/josemanuel_rodriguez_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240402_092452-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n%201.mp4?csf=1&web=1&e=hjHPNn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 
-XXX/04/24 PARTE 1 <XXXXX>
+02/04/24 PARTE 3 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/josemanuel_rodriguez_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240402_135523-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=0GiizR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 
-XXX/04/24 PARTE 1 <XXXXX>
+02/04/24 PARTE 4 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/josemanuel_rodriguez_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240402_135523-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n%203.mp4?csf=1&web=1&e=vum9bv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 
-XXX/04/24 PARTE 1 <XXXXX>
+03/04/24 PARTE 1 <https://youtu.be/752pAXMDMrM> --> Finalizamos repaso general de Spring Boot
 
-XXX/04/24 PARTE 1 <XXXXX>
+03/04/24 PARTE 2 <https://youtu.be/aY1nNUsN8x0> --> Comenzamos con Angular. Comenzamos con la creacion de CRUDs.
 
-XXX/04/24 PARTE 1 <XXXXX>
+04/04/24 PARTE 1 <https://youtu.be/19_vpSjr0AE>
 
-XXX/04/24 PARTE 1 <XXXXX>
+04/04/24 PARTE 2 <https://youtu.be/Y1OomIYvLGQ>
 
-XXX/04/24 PARTE 1 <XXXXX>
+05/04/24 PARTE 1 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/jose_david_mon_soltelsevilla_onmicrosoft_com/Documents/Recordings/Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n%20de%20Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240405_093744.mp4?csf=1&web=1&e=jHPUhT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D> JD --> Finalizamos la creacion de CRUDs y comenzamos con la creacion del login
 
-XXX/04/24 PARTE 1 <XXXXX>
+05/04/24 PARTE 2 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/josemanuel_rodriguez_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240405_124853-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=R1ZDOB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 
-XXX/04/24 PARTE 1 <XXXXX>
+08/04/24 PARTE 1 <https://youtu.be/FqwemQFXV-A> --> Finalizamos la creacion del login y comenzamos como generar un modal
 
-XXX/04/24 PARTE 1 <XXXXX>
+08/04/24 PARTE 2 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/josemanuel_rodriguez_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240408_122146-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=Wj2m42&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D> --> Finalizamos la creacion de modal y se explican las Directivas
 
-XXX/04/24 PARTE 1 <XXXXX>
+09/04/24 PARTE 1 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/jose_david_mon_soltelsevilla_onmicrosoft_com/Documents/Recordings/Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n%20de%20Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240409_093151.mp4?csf=1&web=1&e=siz2GT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D> JD --> Repaso de Git
 
-XXX/04/24 PARTE 1 <XXXXX>
+09/04/24 PARTE 2 <https://youtu.be/M33YnA0fM5w> --> Fases de vida de los componentes
 
-XXX/04/24 PARTE 1 <XXXXX>
+09/04/24 PARTE 3 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/jose_david_mon_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240409_135514-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=fEPPkY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D> JD
 
-XXX/04/24 PARTE 1 <XXXXX>
+10/04/24 PARTE 1 <https://youtu.be/yxbOC5VsJK0> --> Empezamos a crear un proyecto de citas para un psicologo
 
-XXX/04/24 PARTE 1 <XXXXX>
+10/04/24 PARTE 2 <https://youtu.be/qQTZWXF6MBw>
 
-XXX/04/24 PARTE 1 <XXXXX>
+10/04/24 PARTE 3 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/jose_david_mon_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240410_123311-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=SWNSjp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 
+10/04/24 PARTE 4 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/jose_david_mon_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240410_123311-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n%201.mp4?csf=1&web=1&e=cq8jUN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 
+11/04/24 PARTE 1 <https://youtu.be/obKLcFIW1Ec>
 
+11/04/24 PARTE 2 <https://youtu.be/0BT2GDFRVSw>
 
+12/04/24 PARTE 1 <https://youtu.be/Ti-RNiyE7KA>
+
+12/04/24 PARTE 2 <https://youtu.be/Dj5u-YIxM4o>
 
 ---
 ---
