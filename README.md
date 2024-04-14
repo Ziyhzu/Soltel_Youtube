@@ -382,7 +382,7 @@
 ---
 ---
 
-## STRING BOOT + PRACTICA DE EXAMEN FINAL
+## STRING BOOT + ANGULAR: PRACTICA DE EXAMEN FINAL
 
 20/03/24 <https://youtu.be/RY1vKTj-R5Q>
 
@@ -391,6 +391,77 @@
 21/03/24 parte 2 <https://youtu.be/2lhDiedLlaU>
 
 21/03/24 parte 3 <https://youtu.be/SzKdacVPeFM> --> Aquí empezamos a mezclar Spring Boot con Angular
+
+22/03/24 PARTE 1 <https://youtu.be/2lhDiedLlaU>
+
+22/03/24 PARTE 2 <https://youtu.be/8wPQt2WLiOw>
+
+25/03/24 PARTE 1 <https://youtu.be/wInFhba9QVI>
+
+25/03/24 PARTE 2 <https://youtu.be/oZfwu9SBfuU>
+
+26/03/24 PARTE 1 <https://youtu.be/yXfk_XcmK8E>
+
+26/03/24 PARTE 2 <https://youtu.be/ZttyFZqrMVk>
+
+27/03/24 PARTE 1 <https://youtu.be/_qva1GsdmFc>
+
+27/03/24 PARTE 2 <https://youtu.be/Od1tJyMOYr8>
+
+30/03/24 PARTE 2 <https://youtu.be/95WFkehCwZ0>
+
+30/03/24 PARTE 1 <https://youtu.be/pfL_f0mz-3Q>
+
+---
+---
+
+## STRING BOOT + ANGULAR: PRACTICA DE EXAMEN FINAL
+
+01/04/24 PARTE 1 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/josemanuel_rodriguez_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240401_093047-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=rV2Lzw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
+
+01/04/24 PARTE 2 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/josemanuel_rodriguez_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240401_093047-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n%201.mp4?csf=1&web=1&e=RU2fXV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
+
+XXX/04/24 PARTE 1 <XXXXX>
+
+XXX/04/24 PARTE 1 <XXXXX>
+
+XXX/04/24 PARTE 1 <XXXXX>
+
+XXX/04/24 PARTE 1 <XXXXX>
+
+XXX/04/24 PARTE 1 <XXXXX>
+
+XXX/04/24 PARTE 1 <XXXXX>
+
+XXX/04/24 PARTE 1 <XXXXX>
+
+XXX/04/24 PARTE 1 <XXXXX>
+
+XXX/04/24 PARTE 1 <XXXXX>
+
+XXX/04/24 PARTE 1 <XXXXX>
+
+XXX/04/24 PARTE 1 <XXXXX>
+
+XXX/04/24 PARTE 1 <XXXXX>
+
+XXX/04/24 PARTE 1 <XXXXX>
+
+XXX/04/24 PARTE 1 <XXXXX>
+
+XXX/04/24 PARTE 1 <XXXXX>
+
+XXX/04/24 PARTE 1 <XXXXX>
+
+XXX/04/24 PARTE 1 <XXXXX>
+
+XXX/04/24 PARTE 1 <XXXXX>
+
+XXX/04/24 PARTE 1 <XXXXX>
+
+
+
+
 
 ---
 ---
