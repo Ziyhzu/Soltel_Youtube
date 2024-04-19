@@ -481,7 +481,7 @@
 
 19/04/24 PARTE 1 <https://youtu.be/FcvvDVJe1JY>
 
-19/04/24 PARTE 2 <>
+19/04/24 PARTE 2 <https://youtu.be/oYb4SRx6MhA>
 
 ---
 ---
