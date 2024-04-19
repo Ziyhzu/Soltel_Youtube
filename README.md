@@ -469,6 +469,20 @@
 
 12/04/24 PARTE 2 <https://youtu.be/Dj5u-YIxM4o>
 
+15/04/24 PARTE 1 <https://youtu.be/vqV9gJgLH0k>
+
+15/04/24 PARTE 2 <https://youtu.be/wtXvuJCxfzg>
+
+16/04/24 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/jose_ortega_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240416_095640-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=n8mdID&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D> Jose Ortega
+
+18/04/24 PARTE 1 <https://youtu.be/i7VqCvoAJiU>
+
+18/04/24 PARTE 2 <https://youtu.be/Vz-AUGymBe4>
+
+19/04/24 PARTE 1 <https://youtu.be/FcvvDVJe1JY>
+
+19/04/24 PARTE 2 <>
+
 ---
 ---
 
