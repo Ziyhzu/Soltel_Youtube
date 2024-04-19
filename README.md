@@ -439,7 +439,7 @@
 
 04/04/24 PARTE 2 <https://youtu.be/Y1OomIYvLGQ>
 
-05/04/24 PARTE 1 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/jose_david_mon_soltelsevilla_onmicrosoft_com/Documents/Recordings/Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n%20de%20Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240405_093744.mp4?csf=1&web=1&e=jHPUhT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D> JD --> Finalizamos la creacion de CRUDs y comenzamos con la creacion del login
+05/04/24 PARTE 1 <https://youtu.be/Q2j7FmlJgW0> --> Finalizamos la creacion de CRUDs y comenzamos con la creacion del login
 
 05/04/24 PARTE 2 <https://youtu.be/MbDUhBKUhzw>
 
@@ -447,19 +447,19 @@
 
 08/04/24 PARTE 2 <https://youtu.be/RDf2TY5vdCs> --> Finalizamos la creacion de modal y se explican las Directivas
 
-09/04/24 PARTE 1 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/jose_david_mon_soltelsevilla_onmicrosoft_com/Documents/Recordings/Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n%20de%20Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240409_093151.mp4?csf=1&web=1&e=siz2GT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D> JD --> Repaso de Git
+09/04/24 PARTE 1 <https://youtu.be/keUP1Nlk8tQ> JD --> Repaso de Git
 
 09/04/24 PARTE 2 <https://youtu.be/M33YnA0fM5w> --> Fases de vida de los componentes
 
-09/04/24 PARTE 3 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/jose_david_mon_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240409_135514-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=fEPPkY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D> JD
+09/04/24 PARTE 3 <https://youtu.be/Rb9SMQG80q0>
 
 10/04/24 PARTE 1 <https://youtu.be/yxbOC5VsJK0> --> Empezamos a crear un proyecto de citas para un psicologo
 
 10/04/24 PARTE 2 <https://youtu.be/qQTZWXF6MBw>
 
-10/04/24 PARTE 3 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/jose_david_mon_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240410_123311-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=SWNSjp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
+10/04/24 PARTE 3 <https://youtu.be/5mM4NW7cJic>
 
-10/04/24 PARTE 4 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/jose_david_mon_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240410_123311-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n%201.mp4?csf=1&web=1&e=cq8jUN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
+10/04/24 PARTE 4 <https://youtu.be/McWPXsacHAI>
 
 11/04/24 PARTE 1 <https://youtu.be/obKLcFIW1Ec>
 
@@ -473,7 +473,7 @@
 
 15/04/24 PARTE 2 <https://youtu.be/wtXvuJCxfzg>
 
-16/04/24 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/jose_ortega_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240416_095640-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=n8mdID&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D> Jose Ortega
+16/04/24 <https://youtu.be/X-SLSYqvhcc>
 
 18/04/24 PARTE 1 <https://youtu.be/i7VqCvoAJiU>
 
@@ -481,7 +481,7 @@
 
 19/04/24 PARTE 1 <https://youtu.be/FcvvDVJe1JY>
 
-19/04/24 PARTE 2 <https://youtu.be/oYb4SRx6MhA>
+19/04/24 PARTE 2 <https://youtu.be/oYb4SRx6MhA> --> Finalizamos el proyecto de citas para un psicologo y FIN DEL CURSO
 
 ---
 ---
