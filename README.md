@@ -419,17 +419,17 @@
 
 ## STRING BOOT + ANGULAR: CLASES CON JOSE MANUEL
 
-01/04/24 PARTE 1 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/josemanuel_rodriguez_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240401_093047-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=rV2Lzw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D> --> Como generar un archivo PDF y guardarlo dentro del proyecto
+01/04/24 PARTE 1 <https://youtu.be/MM_87MEht-A> --> Como generar un archivo PDF y guardarlo dentro del proyecto
 
-01/04/24 PARTE 2 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/josemanuel_rodriguez_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240401_093047-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n%201.mp4?csf=1&web=1&e=RU2fXV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D> 
+01/04/24 PARTE 2 <https://youtu.be/D6JiNuF--VA> 
 
-02/04/24 PARTE 1 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/josemanuel_rodriguez_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240402_092452-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=7GFHYs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D> --> Finalizar como generar un PDF y comenzamos repaso general de Spring Boot. Se explica la creación de DTOs
+02/04/24 PARTE 1 <https://youtu.be/canXZs4kj5I> --> Finalizar como generar un PDF y comenzamos repaso general de Spring Boot. Se explica la creación de DTOs
 
-02/04/24 PARTE 2 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/josemanuel_rodriguez_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240402_092452-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n%201.mp4?csf=1&web=1&e=hjHPNn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
+02/04/24 PARTE 2 <https://youtu.be/Tyq-PxYGJWY>
 
-02/04/24 PARTE 3 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/josemanuel_rodriguez_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240402_135523-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=0GiizR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
+02/04/24 PARTE 3 <https://youtu.be/ur7aTOhgbEM>
 
-02/04/24 PARTE 4 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/josemanuel_rodriguez_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240402_135523-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n%203.mp4?csf=1&web=1&e=vum9bv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
+02/04/24 PARTE 4 <https://youtu.be/ZurvGxydVr0>
 
 03/04/24 PARTE 1 <https://youtu.be/752pAXMDMrM> --> Finalizamos repaso general de Spring Boot
 
@@ -441,11 +441,11 @@
 
 05/04/24 PARTE 1 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/jose_david_mon_soltelsevilla_onmicrosoft_com/Documents/Recordings/Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n%20de%20Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240405_093744.mp4?csf=1&web=1&e=jHPUhT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D> JD --> Finalizamos la creacion de CRUDs y comenzamos con la creacion del login
 
-05/04/24 PARTE 2 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/josemanuel_rodriguez_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240405_124853-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=R1ZDOB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
+05/04/24 PARTE 2 <https://youtu.be/MbDUhBKUhzw>
 
 08/04/24 PARTE 1 <https://youtu.be/FqwemQFXV-A> --> Finalizamos la creacion del login y comenzamos como generar un modal
 
-08/04/24 PARTE 2 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/josemanuel_rodriguez_soltelsevilla_onmicrosoft_com/Documents/Recordings/Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240408_122146-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=Wj2m42&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D> --> Finalizamos la creacion de modal y se explican las Directivas
+08/04/24 PARTE 2 <https://youtu.be/RDf2TY5vdCs> --> Finalizamos la creacion de modal y se explican las Directivas
 
 09/04/24 PARTE 1 <https://sotelsevilla-my.sharepoint.com/:v:/r/personal/jose_david_mon_soltelsevilla_onmicrosoft_com/Documents/Recordings/Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n%20de%20Curso%20de%20Desarrollo%20de%20Aplicaciones%20Web%20y%20Dispositivos%20M%C3%B3viles-20240409_093151.mp4?csf=1&web=1&e=siz2GT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D> JD --> Repaso de Git
 
